@@ -1,0 +1,6 @@
+##This will work in development on a relative folder basis
+##It will then work when installed in site-packages on a target system
+
+import package.module
+
+package.module.start ()
